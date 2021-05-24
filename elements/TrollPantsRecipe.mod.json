@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TrollFace"
+      },
+      {
+        "value": "CUSTOM:TrollFace"
+      },
+      {
+        "value": "CUSTOM:TrollFace"
+      },
+      {
+        "value": "CUSTOM:TrollFace"
+      },
+      {
+        "value": "Blocks.POLISHED_BASALT"
+      },
+      {
+        "value": "CUSTOM:TrollFace"
+      },
+      {
+        "value": "CUSTOM:TrollFace"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TrollFace"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TrollArmor.legs"
+    },
+    "name": "troll_pants_recipe",
+    "namespace": "mod"
+  }
+}

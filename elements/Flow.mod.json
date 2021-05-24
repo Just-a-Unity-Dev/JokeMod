@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "troll_disc",
+    "name": "Flow",
+    "description": "eclips_3",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:record.flow"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

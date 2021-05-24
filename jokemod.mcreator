@@ -1,0 +1,404 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TrollFace",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_face"
+    },
+    {
+      "name": "Trollge",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trollge"
+    },
+    {
+      "name": "TrollFaceRightClickedInAir",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_face_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TrollBiome",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_biome"
+    },
+    {
+      "name": "TrollOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_ore"
+    },
+    {
+      "name": "TrollBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_block"
+    },
+    {
+      "name": "TrollDimension",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "FreeDiamonds",
+      "type": "command",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "free_diamonds"
+    },
+    {
+      "name": "TrollBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_block_recipe"
+    },
+    {
+      "name": "TrollFaceRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_face_recipe"
+    },
+    {
+      "name": "TrollPickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_pickaxe"
+    },
+    {
+      "name": "TrollBook",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_book"
+    },
+    {
+      "name": "TrollBookRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_book_recipe"
+    },
+    {
+      "name": "TrollPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_pickaxe_recipe"
+    },
+    {
+      "name": "TrollSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_sword"
+    },
+    {
+      "name": "TrappedTrollBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trapped_troll_block"
+    },
+    {
+      "name": "TrappedTrollBlockRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trapped_troll_block_recipe"
+    },
+    {
+      "name": "TrollArmor",
+      "type": "armor",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TrollIIgniterRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_i_igniter_recipe"
+    },
+    {
+      "name": "TrollHelmetRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_helmet_recipe"
+    },
+    {
+      "name": "TrollChestplateRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_chestplate_recipe"
+    },
+    {
+      "name": "TrollPantsRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_pants_recipe"
+    },
+    {
+      "name": "TrollShoesRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_shoes_recipe"
+    },
+    {
+      "name": "Hellothere",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hellothere"
+    },
+    {
+      "name": "TrollgeEra",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trollge_era"
+    },
+    {
+      "name": "FamilyOfTheTrollge",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "family_of_the_trollge"
+    },
+    {
+      "name": "TrollgeHoe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trollge_hoe"
+    },
+    {
+      "name": "Regret",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regret"
+    },
+    {
+      "name": "BeautifulMask",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beautiful_mask"
+    },
+    {
+      "name": "TrollAxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "troll_axe"
+    },
+    {
+      "name": "TrollgeShovel",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trollge_shovel"
+    },
+    {
+      "name": "TheBookOfCrafting",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_book_of_crafting"
+    },
+    {
+      "name": "PlainSight",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plain_sight"
+    },
+    {
+      "name": "Flow",
+      "type": "musicdisc",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flow"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "record.flow",
+      "files": [
+        "flow"
+      ],
+      "category": "record",
+      "subtitle": "Flow plays"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.jokemod.troll_sword": "Troll Sword",
+      "advancements.trollge_era.descr": "Earn a Troll Face",
+      "biome.jokemod.troll_biome": "Troll Biome",
+      "item.jokemod.trollge_hoe": "Trollge Hoe",
+      "advancements.regret.title": "Instant Regret",
+      "advancements.hellothere.title": "Hello there!",
+      "item.jokemod.flow.desc": "eclips_3",
+      "advancements.regret.descr": "Have a Trollge Hoe in your inventory",
+      "item.jokemod.troll_armor_boots": "Troll Armor Boots",
+      "item.jokemod.troll_axe": "Troll Axe",
+      "item.jokemod.troll_armor_helmet": "Troll Armor Mask",
+      "advancements.beautiful_mask.title": "Beautiful Mask",
+      "block.jokemod.trapped_troll_block": "Trapped Troll Block",
+      "item.jokemod.troll_armor_chestplate": "Troll Armor Suit",
+      "item.jokemod.troll_armor_leggings": "Troll Armor Leggings",
+      "entity.jokemod.trollge": "Trollge",
+      "advancements.family_of_the_trollge.descr": "Visit the Trollge dimension.",
+      "item.jokemod.troll_book": "Troll Book",
+      "advancements.the_book_of_crafting.title": "The Book Of Crafting",
+      "advancements.beautiful_mask.descr": "Have a Trollge Mask in your inventory",
+      "item.jokemod.troll_face": "Troll Face",
+      "advancements.family_of_the_trollge.title": "Family Of The Trollge",
+      "block.jokemod.troll_ore": "Troll Ore",
+      "item.jokemod.troll_dimension": "Troll Dimension Gateway Lighter",
+      "advancements.trollge_era.title": "Trollge Era",
+      "block.jokemod.troll_block": "Troll Block",
+      "advancements.plain_sight.title": "Plain Sight",
+      "subtitles.record.flow": "Flow plays",
+      "item.jokemod.troll_pickaxe": "Troll Pickaxe",
+      "advancements.hellothere.descr": "Enter the Trollge Biome",
+      "item.jokemod.trollge_spawn_egg": "Trollge Spawn Egg",
+      "advancements.the_book_of_crafting.descr": "Have a Trollge Book in your inventory",
+      "item.jokemod.trollge_shovel": "Trollge Shovel",
+      "item.jokemod.flow": "Flow",
+      "advancements.plain_sight.descr": "Have a Trapped Troll Block in your inventory"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jokemod",
+    "modName": "JokeMod",
+    "version": "1.0.0",
+    "author": "ramon, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.eclips_e.jokemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

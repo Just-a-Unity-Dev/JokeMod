@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "jokemod:troll_face"
+    },
+    "title": {
+      "translate": "advancements.family_of_the_trollge.title"
+    },
+    "description": {
+      "translate": "advancements.family_of_the_trollge.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "family_of_the_trollge": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "jokemod:troll_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jokemod:trollge_era"
+}

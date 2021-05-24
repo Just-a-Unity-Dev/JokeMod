@@ -1,0 +1,19 @@
+{
+  "group": "jokemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jokemod:troll_face"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "item": "jokemod:troll_dimension",
+    "count": 1
+  }
+}

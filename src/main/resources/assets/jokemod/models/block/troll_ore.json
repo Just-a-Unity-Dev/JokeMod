@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jokemod:blocks/troll_ore",
+    "up": "jokemod:blocks/troll_ore",
+    "north": "jokemod:blocks/troll_ore",
+    "east": "jokemod:blocks/troll_ore",
+    "south": "jokemod:blocks/troll_ore",
+    "west": "jokemod:blocks/troll_ore",
+    "particle": "jokemod:blocks/troll_ore"
+  }
+}

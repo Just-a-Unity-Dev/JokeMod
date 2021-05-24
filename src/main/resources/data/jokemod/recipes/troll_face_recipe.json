@@ -1,0 +1,13 @@
+{
+  "group": "jokemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jokemod:troll_block"
+    }
+  ],
+  "result": {
+    "item": "jokemod:troll_face",
+    "count": 9
+  }
+}

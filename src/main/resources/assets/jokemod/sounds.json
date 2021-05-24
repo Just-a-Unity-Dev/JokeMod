@@ -1,0 +1,12 @@
+{
+  "record.flow": {
+    "category": "record",
+    "subtitle": "subtitles.record.flow",
+    "sounds": [
+      {
+        "name": "jokemod:flow",
+        "stream": true
+      }
+    ]
+  }
+}

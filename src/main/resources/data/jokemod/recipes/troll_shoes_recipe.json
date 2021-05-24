@@ -1,0 +1,29 @@
+{
+  "group": "jokemod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "jokemod:troll_face"
+    },
+    "1": {
+      "item": "minecraft:white_dye"
+    },
+    "2": {
+      "item": "jokemod:troll_face"
+    },
+    "3": {
+      "item": "jokemod:troll_face"
+    },
+    "5": {
+      "item": "jokemod:troll_face"
+    }
+  },
+  "result": {
+    "item": "jokemod:troll_armor_boots",
+    "count": 1
+  }
+}

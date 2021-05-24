@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "jokemod:troll_face"
+    },
+    "title": {
+      "translate": "advancements.hellothere.title"
+    },
+    "description": {
+      "translate": "advancements.hellothere.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hellothere": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "jokemod:troll_biome"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

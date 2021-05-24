@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "jokemod:block/troll_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "jokemod:block/troll_dimension_portal_ns"
+    }
+  }
+}

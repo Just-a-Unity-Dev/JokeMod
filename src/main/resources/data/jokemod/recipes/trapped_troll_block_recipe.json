@@ -1,0 +1,19 @@
+{
+  "group": "jokemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jokemod:troll_book"
+    },
+    {
+      "item": "jokemod:troll_block"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "item": "jokemod:trapped_troll_block",
+    "count": 1
+  }
+}

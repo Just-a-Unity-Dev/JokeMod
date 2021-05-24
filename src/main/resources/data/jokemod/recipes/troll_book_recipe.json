@@ -1,0 +1,42 @@
+{
+  "group": "jokemod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "jokemod:troll_block"
+    },
+    "1": {
+      "item": "jokemod:troll_block"
+    },
+    "2": {
+      "item": "jokemod:troll_block"
+    },
+    "3": {
+      "item": "jokemod:troll_face"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "jokemod:troll_face"
+    },
+    "6": {
+      "item": "jokemod:troll_face"
+    },
+    "7": {
+      "item": "jokemod:troll_block"
+    },
+    "8": {
+      "item": "jokemod:troll_face"
+    }
+  },
+  "result": {
+    "item": "jokemod:troll_book",
+    "count": 1
+  }
+}
